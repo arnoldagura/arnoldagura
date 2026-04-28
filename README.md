@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnold</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **next.js** **nest.js**
+- 🌱 I’m currently learning **nest.js**
 
 - 📫 How to reach me **arnoldagura.work@gmail.com**
 
